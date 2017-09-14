@@ -13,3 +13,4 @@ Notation style: Allman Notation
 * Added first feature: new quote and new character - Vincent
 * Quotes displayed via show method - Vincent 
 * Added tooltips for cast members (title attributes) - Captain Dan  
+* Quotes formatted on actor view and actor information displayed as well - Vincent
