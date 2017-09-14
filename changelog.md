@@ -12,3 +12,4 @@ Notation style: Allman Notation
 * .gitignore updated - Captain Dan
 * Added first feature: new quote and new character - Vincent
 * Quotes displayed via show method - Vincent 
+* Quotes formatted on actor view and actor information displayed as well - Vincent
